@@ -1,7 +1,6 @@
 # flutter10
 
-A new Flutter project.
-
+Projeto realizado no semestre de Laboratório de Desenvolvimentos Moveis, aplicação para utlização de visitas tecnicas ao cliente
 ## Getting Started
 
 This project is a starting point for a Flutter application.
