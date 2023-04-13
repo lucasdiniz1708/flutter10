@@ -1,6 +1,6 @@
 # flutter10
 
-Projeto realizado no semestre de Laboratório de Desenvolvimentos Moveis, aplicação para utlização de visitas tecnicas ao cliente
+Projeto realizado no semestre de Laboratório de Desenvolvimentos Moveis, aplicação para utlização de visitas tecnicas ao cliente da empresa MAYA ENERGY
 ## Getting Started
 
 This project is a starting point for a Flutter application.
